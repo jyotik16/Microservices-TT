@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ecb7eb3-1daf-411d-a41e-0569f99ee6e2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../HotelService/HotelService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HotelService/HotelService/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HotelService/HotelService/src/main/java/com/lcwd/hotel/controllers/HotelController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HotelService/HotelService/src/main/java/com/lcwd/hotel/controllers/HotelController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HotelService/HotelService/src/main/java/com/lcwd/hotel/respositories/HotelRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HotelService/HotelService/src/main/java/com/lcwd/hotel/respositories/HotelRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HotelService/HotelService/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../HotelService/HotelService/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RatingService/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RatingService/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RatingService/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RatingService/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RatingService/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RatingService/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RatingService/src/main/java/com/lcwd/rating/RatingServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RatingService/src/main/java/com/lcwd/rating/config/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RatingService/src/main/java/com/lcwd/rating/controllers/RatingController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RatingService/src/main/java/com/lcwd/rating/entities/Rating.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RatingService/src/main/java/com/lcwd/rating/repository/RatingRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RatingService/src/main/java/com/lcwd/rating/services/RatingService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RatingService/src/main/java/com/lcwd/rating/services/impl/RatingServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RatingService/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RatingService/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RatingService/src/test/java/com/lcwd/rating/RatingServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServiceRegistry/ServiceRegistry/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServiceRegistry/ServiceRegistry/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServiceRegistry/ServiceRegistry/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServiceRegistry/ServiceRegistry/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServiceRegistry/ServiceRegistry/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServiceRegistry/ServiceRegistry/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServiceRegistry/ServiceRegistry/src/main/java/com/lcwd/service/registry/ServiceRegistryApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServiceRegistry/ServiceRegistry/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServiceRegistry/ServiceRegistry/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServiceRegistry/ServiceRegistry/src/test/java/com/lcwd/service/registry/ServiceRegistryApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/UserService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UserService/UserService/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/UserService/src/main/java/com/lcwd/user/service/UserServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UserService/UserService/src/main/java/com/lcwd/user/service/UserServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/UserService/src/main/java/com/lcwd/user/service/config/MyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UserService/UserService/src/main/java/com/lcwd/user/service/config/MyConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/UserService/src/main/java/com/lcwd/user/service/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UserService/UserService/src/main/java/com/lcwd/user/service/config/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/UserService/src/main/java/com/lcwd/user/service/config/interceptor/FeignClientInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UserService/UserService/src/main/java/com/lcwd/user/service/config/interceptor/FeignClientInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/UserService/src/main/java/com/lcwd/user/service/config/interceptor/RestTemplateInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UserService/UserService/src/main/java/com/lcwd/user/service/config/interceptor/RestTemplateInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/UserService/src/main/java/com/lcwd/user/service/controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UserService/UserService/src/main/java/com/lcwd/user/service/controllers/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/UserService/src/main/java/com/lcwd/user/service/entities/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UserService/UserService/src/main/java/com/lcwd/user/service/entities/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/UserService/src/main/java/com/lcwd/user/service/repositories/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UserService/UserService/src/main/java/com/lcwd/user/service/repositories/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/UserService/src/main/java/com/lcwd/user/service/services/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UserService/UserService/src/main/java/com/lcwd/user/service/services/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/UserService/src/main/java/com/lcwd/user/service/services/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UserService/UserService/src/main/java/com/lcwd/user/service/services/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/UserService/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../UserService/UserService/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LPlFcj0j9L2yBvJH3fgD1xeH5v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jyotikashyap/Documents/Projects/AnkitaProjects/durgesh/Microservices-Tutorial/RatingService&quot;,
+    &quot;show.run.dashboard.notification&quot;: &quot;false&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;9ab056b847e52399214d10ecac40054b&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Spring Boot.UserServiceApplication">
+    <configuration name="HotelServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="HotelService" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lcwd.hotel.HotelServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <option name="ALTERNATIVE_JRE_PATH" value="zulu-17 (2)" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lcwd.user.service.UserServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.HotelServiceApplication" />
+      <item itemvalue="Spring Boot.UserServiceApplication" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ecb7eb3-1daf-411d-a41e-0569f99ee6e2" name="Changes" comment="" />
+      <created>1675780496138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675780496138</updated>
+      <workItem from="1675780497699" duration="264000" />
+      <workItem from="1675949779012" duration="1376000" />
+      <workItem from="1676034358756" duration="32000" />
+      <workItem from="1676034406773" duration="63000" />
+      <workItem from="1676034486794" duration="61000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
